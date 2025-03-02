@@ -274,6 +274,16 @@ img {
   margin-right: 50px;
 }
 
+
+.contact-list img{
+  width: 70px;
+}
+
+.contact-list .twitter {
+  width: 60px;
+}
+
+
 .contact-text {
   margin-top: 10px;
 }
